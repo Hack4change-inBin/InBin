@@ -1,6 +1,6 @@
 include(scodes/src/SCodes.pri)
 
-QT += quick
+QT += quick svg widgets
 
 #https://www.iconfinder.com/icons/5452494/automobile_garbage_recycling_transportation_trash_truck_vehicle_icon
 
